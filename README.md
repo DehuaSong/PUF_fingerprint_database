@@ -6,8 +6,8 @@ This fingerprint database is collected in Peking University to train deep convol
 
 We hope that the database contains the following variation of the same finger:   
 (1) Humidity of finger   
-(2) Nonlinear distortion caused by pressure
-(3) Area of captured region
-(4) Stains
-(5) Temporal variations
-(6) Sensors
+(2) Nonlinear distortion caused by pressure   
+(3) Area of captured region   
+(4) Stains   
+(5) Temporal variations   
+(6) Sensors   
