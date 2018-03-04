@@ -13,7 +13,7 @@ We hope that the database contains the following variations of the same finger:
 (6) Sensors   
 
 # Database
-This database contains 40000 images of 1000 fingers from 100 identities. Each finger contains 40 impressions (20 samples are captured by PU-JY 203U and 20 samples are captured by PU-JY 500U). The image size is 640x640 and the resolution is 500 dpi. Now, part of images in PUF database can be downloaded. Soon, We will further open the whole fingerprint database.
+This database contains 40000 images of 1000 fingers from 100 identities. Each finger contains 40 impressions (20 samples are captured by PU-JY 203U and 20 samples are captured by PU-JY 500U). The image size is 640x640 and the resolution is 500 dpi. Now, part of images in PUF database can be downloaded. Soon, we will further open the whole fingerprint database.
 
 # Acknowledgement
 Thanks to Founder Interntional Co., Ltd who has sponsored us to collect fingerprint data at Peking University.
